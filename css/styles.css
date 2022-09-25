@@ -1,0 +1,8 @@
+#choropleth_map {
+	top:100px;
+	bottom: 100px; 
+	left: 300px;
+	right: 100px;
+	height: 1500px;
+	width: 1300px;
+}
